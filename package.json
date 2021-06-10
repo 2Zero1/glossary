@@ -1,0 +1,20 @@
+{
+  "name": "glossary",
+  "version": "1.0.0",
+  "description": "책에서 나온 용어들을 책별로 기록하고 서로 다른 책들이 같은 용어를 어떻게 설명하고있는지 볼 수 있다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://2Zero1@github.com/2Zero1/glossary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Zero1/glossary/issues"
+  },
+  "homepage": "https://github.com/2Zero1/glossary#readme"
+}
